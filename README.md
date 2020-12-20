@@ -3,24 +3,26 @@
 - Images are below
 - An assets directory is provided in the repo, and colors are provided in the CSS file.
 
-### Iteration 1: Add Random Side, Main and Dessert Functionality COMPLETED
+### Iteration 1: Add Random Side, Main and Dessert Functionality [COMPLETED]
 
 - When a user selects a dish option (don't worry about "Entire Meal" yet) and then clicks the "Let's Cook!" button, the user sees a random dish from the list of possible dishes for that category
 - When the dish name appears, the cookpot icon disappears
 
-### Iteration 2: Entire Meal Funcitonality COMPLETED
+### Iteration 2: Entire Meal Funcitonality [COMPLETED]
 
 - When the user selects the "Entire Meal" option and then clicks the "Let's Cook!" button, the user sees a message with a side, main and dessert option from the lists of possible dishes for all categories
 - When the meal items appear, the cookpot icon disappears
 
-### Iteration 3: Error Handling and Clear Button COMPLETED
+### Iteration 3: Error Handling and Clear Button [COMPLETED] 
+**popup isn't centered and is showing up sometimes when it shouldn't - might have something to do with the toggle** 
 
 - The user can click a clear button, which clears the page of any message. User should only be able to click the clear button if a food is visible. When the clear button is clicked and the food is removed, the image of the cookpot should re-appear.
 - User should not be able to click the "Let's Cook" button for a recipe unless they have selected an option.
 
 _Note: You can disable these buttons, hide them, or display a message to the user for error handling. The choice is yours!_
 
-### Iteration 4: Adding a Recipe COMPLETED (kinda)
+### Iteration 4: Adding a Recipe [COMPLETED (kinda)] 
+**you can add a recipe and it will display in the second box, but i can't for the love of god get the popup box to display at the right time when an unrecognized dish is entered. my code logic makes sense to me, but i just cant quite get it functioning** 
 
 - The user can click an "Add a Recipe" button, which will display a form to add a new recipe at the bottom of the page
 - The user can add a type and a name, click the "Add New" recipe and that recipe will be added to the appropriate list
